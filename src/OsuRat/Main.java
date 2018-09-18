@@ -15,7 +15,6 @@ import org.jnativehook.keyboard.NativeKeyListener;
 public class Main extends JFrame implements NativeKeyListener{
 
     static JButton button;
-    static final boolean[] switi = {true};
     private static int keyOneIndex;
     private static int keyTwoIndex;
     private static boolean keysSetOne;
