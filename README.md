@@ -7,3 +7,5 @@ It's the osu bongo cat for twitch made in JAVA, instead of a cat i used images o
 3. run the .jar file
 4. follow prompt
 5. add java.exe or javaw.exe as game capture in OBS/streamlabs.
+
+![OsuRatPreview](https://i.imgur.com/Mbtxm6f.png)
